@@ -1,0 +1,6 @@
+eldarchallengeDM\App.class
+eldarchallengeDM\modules\Tarjeta.class
+eldarchallengeDM\modules\Ejercicio5Array.class
+eldarchallengeDM\utils\DataFormater.class
+eldarchallengeDM\exception\ChallengeException.class
+eldarchallengeDM\modules\Marca.class
